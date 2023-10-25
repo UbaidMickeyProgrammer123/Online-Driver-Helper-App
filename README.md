@@ -1,5 +1,5 @@
 # Online-Driver-Helper-App
-Functionality:
+**Functionality:**
 
 **Driver's Perspective:**
 Locate Nearest Mechanics: Find nearby mechanics based on the driver's current live location.
@@ -18,7 +18,11 @@ Data Monitoring: Admin has access to monitor and modify user data.
 Technology Used:
 
 **Development Platform:** Android Studio
+
 **Programming Language:** Java
+
 **User Interface:** XML (Extensible Markup Language)
+
 **Database:** Firebase Database
+
 **User Authentication:** Firebase Authentication
